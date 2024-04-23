@@ -1,0 +1,8 @@
+{
+  "name": "GoogleCatchGane",
+  "version": "1.0.0",
+  "main": "game.js",
+  "repository": "git@github.com:ivansukhoparov/027-10-GameGoogleCatch.git",
+  "author": "ivansukhoparov <rbcdaaa@gmail.com>",
+  "license": "MIT",
+}
